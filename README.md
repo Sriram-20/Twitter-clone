@@ -4,7 +4,7 @@ Fullstack twitter clone frontend + backend. It doesn't have all functionality bu
 * Create and update an account can be customize.
 * Tweets and Retweets
 
-#Note
+# Note
 The database is basically bulid on SQLite using SQLAlchemy python package.
 If you notice any bugs or need to improve something, you can either ping me or contribute your code.
 
