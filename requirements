@@ -1,0 +1,13 @@
+[PIP]
+secrets 
+Werkzeug
+Flask 
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+SQLAlchemy 
+WTForms
+email-validator 
+
+[requires]
+python_version = "3.8"
