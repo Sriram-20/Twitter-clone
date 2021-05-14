@@ -11,6 +11,6 @@ If you notice any bugs or need to improve something, you can either ping me or c
 Of course there's some space to improvement. I will update in future.
 
 # Run
-Download or clone this repo and excute the run.py file.
+Download or clone this repo and execute the run.py file.
 
 
